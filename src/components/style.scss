@@ -1,0 +1,27 @@
+.pageTitle {
+  font-size: 30pt;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.colorContainer {
+  width: 100%;
+  height: 100px;
+}
+
+.inputsContainer {
+  padding: 10px;
+}
+
+.inputColorContainer {
+  padding: 5px;
+  font-size: 16pt;
+
+  input {
+    padding: 5px;
+    font-size: 12pt;
+    width: 70px;
+  }
+}
+
